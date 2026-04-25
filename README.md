@@ -66,7 +66,7 @@ Let's connect and build something amazing! 😄
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aviral02git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
@@ -77,7 +77,7 @@ Let's connect and build something amazing! 😄
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral02git&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
----
+--- -->
 
 ## 📫 Contact Me
 
